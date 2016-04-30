@@ -1,0 +1,15 @@
+.alertrequired{
+    font-size:12px;
+    color:#FA201B;
+    font-family:"Arial Narrow";
+}
+.symbol.required:before {
+    content: "*";
+    display: inline;
+    color: #E6674A;
+}
+.input-daterange .input-group-addon {
+    background-color: #ffffff;
+    border-width: 1px 1px;
+    padding: 3px 12px;
+}
